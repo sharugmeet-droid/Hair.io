@@ -1,0 +1,8 @@
+
+{
+  "name": "Hair.io",
+  "description": "An AI-powered hairstyle transformation app that suggests styles and applies them to your uploaded photos using Gemini's advanced image editing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
